@@ -1,2 +1,2 @@
 # PI
-Sample Project of Python
+Sample Project of Python for GIT Learning
